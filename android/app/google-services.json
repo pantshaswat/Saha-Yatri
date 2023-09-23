@@ -1,0 +1,119 @@
+{
+  "project_info": {
+    "project_number": "231470397469",
+    "firebase_url": "https://saha-yatri-fef25-default-rtdb.firebaseio.com",
+    "project_id": "saha-yatri-fef25",
+    "storage_bucket": "saha-yatri-fef25.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:231470397469:android:1213849b06014ee59b6ef4",
+        "android_client_info": {
+          "package_name": "com.company.saha_yatri"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "231470397469-cnbjb78unh6n6a7oq1a9slg6ffge2ege.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "your api key"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "231470397469-3ceb6e1ubq0it280o63hdikbq3jkc6lr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "231470397469-2951nlhkm5edslmgpnd434pf05ajla7n.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.main"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:231470397469:android:1213aabbc1c577aa9b6ef4",
+        "android_client_info": {
+          "package_name": "com.example.main"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "231470397469-cnbjb78unh6n6a7oq1a9slg6ffge2ege.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "your api key"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "231470397469-3ceb6e1ubq0it280o63hdikbq3jkc6lr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "231470397469-2951nlhkm5edslmgpnd434pf05ajla7n.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.main"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:231470397469:android:23fc0242a527ee8c9b6ef4",
+        "android_client_info": {
+          "package_name": "com.example.yatri_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "231470397469-cnbjb78unh6n6a7oq1a9slg6ffge2ege.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "your api key"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "231470397469-3ceb6e1ubq0it280o63hdikbq3jkc6lr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "231470397469-2951nlhkm5edslmgpnd434pf05ajla7n.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.main"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
